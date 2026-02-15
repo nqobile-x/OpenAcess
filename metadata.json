@@ -1,0 +1,8 @@
+{
+  "name": "OpenAccess",
+  "description": "An AI-powered accessible venue finder and assistant for Gauteng and beyond. Features real-time voice assistance, map grounding, and personalized accessibility profiles.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
